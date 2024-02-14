@@ -419,6 +419,7 @@ function canvas(){
     });
 }
 canvas()
+
 gsap.to("#page1",{
     scrollTrigger:{
         trigger: '#page1',
