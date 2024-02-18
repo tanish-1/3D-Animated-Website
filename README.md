@@ -1,2 +1,4 @@
-![three_d](https://github.com/tanish-1/3D-Animated-Website/assets/94254649/00762e62-a4bd-40e2-8e96-741b640d53ad)
-![three_d2](https://github.com/tanish-1/3D-Animated-Website/assets/94254649/d789c4f7-f34f-4cba-8fb3-1847b36a0e06)
+![page1](https://github.com/tanish-1/3D-Animated-Website/assets/94254649/4cdcf8bf-ce4e-4b1e-90f1-f416bae8e425)
+![page2](https://github.com/tanish-1/3D-Animated-Website/assets/94254649/5d1e2a5d-7c03-4bc0-8bcd-7029b144944a)
+![page3](https://github.com/tanish-1/3D-Animated-Website/assets/94254649/5d2eea7e-dbbf-4bd0-8990-02ecc12bf8d2)
+
